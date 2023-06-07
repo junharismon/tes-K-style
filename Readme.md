@@ -15,14 +15,20 @@ This will launch the Expo DevTools in your default web browser.
 
 - In the DevTools, you can choose to run the app on an Android simulator/emulator, or on a physical device. Select the desired option according to your setup.
 
-  - To run on an Android simulator/emulator:
+- To run on a physical device:
+
+  - Install the Expo Go app from the Google Play Store (Android) or App Store (IOS).
+  - Scan the QR code displayed in the DevTools using the Expo Go app.
+  - Wait for the app to load on your device.
+
+- To run on an Android simulator/emulator:
+
   - Choose "Run on Android device/emulator" in the DevTools, or press the "a" key.
   - Wait for the emulator to launch and the app to load.
 
-- To run on a physical device:
-  - Install the Expo Go app from the Google Play Store (Android).
-  - Scan the QR code displayed in the DevTools using the Expo Go app.
-  - Wait for the app to load on your device.
+- To run on an iOS simulator/emulator:
+  - Choose "Run on iOS simulator" in the DevTools, or press the "i" key.
+  - Wait for the simulator to launch and the app to load.
 
 Once the app is running, you can make changes to the code in the project files. The app will automatically reload and reflect the changes in real-time.
 
