@@ -2,14 +2,14 @@
 
 - Clone the repository
 
-- Open a terminal or command prompt and navigate to the project's root directory.
+- Open a terminal or command prompt and navigate to the project's root directory "cd my-app".
 
 - Install project dependencies by running the following command:
 
   - npm install
 
 - Start the Expo development server by running the following command:
-  - expo start --tunnel
+  - expo start --tunnel or npm start --tunnel
 
 This will launch the Expo DevTools in your default web browser.
 
